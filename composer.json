@@ -1,11 +1,11 @@
 {
-    "name": "shipping-docker/vessel",
-    "description": "Simple Docker dev environments",
+    "name": "hoangstark/vessel",
+    "description": "Simple Docker dev environments that supports Traefik proxy",
     "license": "MIT",
     "authors": [
         {
-            "name": "Chris Fidao",
-            "email": "fideloper@gmail.com"
+            "name": "Hoang Stark",
+            "email": "hoang@ironnext.com"
         }
     ],
     "autoload": {
@@ -22,6 +22,6 @@
         }
     },
     "scripts": {
-        "post-update-cmd": "echo 'VESSEL: Updates may require rebuilding your images.\nVESSEL: See https://github.com/shipping-docker/vessel/releases for details.'"
+        "post-update-cmd": "echo 'VESSEL: Updates may require rebuilding your images.\nVESSEL: See https://github.com/hoangstark/vessel/releases for details.'"
     }
 }

@@ -6,6 +6,10 @@ Up and running with small Docker dev environments.
 
 Full documentation can be found at [https://vessel.shippingdocker.com](https://vessel.shippingdocker.com).
 
+## Post Install
+
+Start traefik and mariadb separately
+
 ## Install
 
 Vessel is just a small set of files that sets up a local Docker-based dev environment per project. There is nothing to install globally, except Docker itself!
